@@ -14,3 +14,7 @@ Cryptographic System - Object Oriented Analysis &amp; Design
 - Low Coupling
 - High Cohesion
 - Don't talk with strangers
+
+**Design Patterns** <br>
+- Singleton pattern
+- Factory pattern
