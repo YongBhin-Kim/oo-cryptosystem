@@ -1,5 +1,7 @@
 # oo-cryprosystem
-Cryptographic System - Object Oriented Analysis &amp; Design
+Cryptographic System - Object Oriented Analysis &amp; Design 
+
+For more detailed description is in the file description.pdf
 
 **시나리오** <br> 
 - 사용자는 데이터를 암호화하여 안전하게 보호하고 싶다. (기밀성) <br>
